@@ -5,13 +5,14 @@ useful custom django tags
 pip install django-general-tags
 
 # Quick start
-1. Add "generalfilters" to your INSTALLED_APPS setting like this::
+
+1. Add "generaltags" to your INSTALLED_APPS setting like this::
 
     INSTALLED_APPS = [
         ...
-        'generalfilters',
+        'generaltags',
     ]
 
-2. Load the general_filters filter in your templates like this::
+2. Load the general_tags filter in your templates like this::
 
-    {% load general_filters %}
+    {% load general_tags %}
