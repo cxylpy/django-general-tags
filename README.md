@@ -1,7 +1,7 @@
 # django-general-tags
 useful custom django tags
 
-# Usage
+# Install
 pip install django-general-tags
 
 # Quick start
